@@ -26,7 +26,7 @@ JavaScript
 =======================
 Clone the repository
 
-git clone https://github.com/yourusername/bmi-index-app.git
+git clone https://github.com/surajsamanta2000/BMI-Index
 Navigate to the project directory
 
 cd bmi-index-app
